@@ -1,0 +1,9 @@
+Jednostka,Pancerz,Zywotnosc,Atak,Obrona,Predkosc_poruszania
+jazda_lekka,50,100,120,50,20
+piechota,80,80,70,60,10
+wlocznicy,40,70,80,40,10
+lucznicy,20,50,150,30,10
+husaria,60,130,150,50,20
+piechota_tatarska,50,80,70,50,10
+jazda_tatarska,60,100,100,50,20
+kozacy,60,130,135,40,25
